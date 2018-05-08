@@ -1,0 +1,34 @@
+* {
+    
+}
+body  {
+    width:100%;
+    height:100vh;
+    background:url(foto/freedom.jpg) no-repeat center;
+    background-size: cover;
+    color:#06F;
+    margin:0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 1,5;
+    display: block;
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.quote {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-shadow: #000 2px -2px 3px;
+}
+.wrapper {
+    padding-top: 4rem;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
